@@ -4,4 +4,4 @@ Data 1: Traffic state information by sections of the city of Barcelona. Availabl
 
 Data 2: Coordinates of traffic sections of Barcelona. Available at [Open Data BCN](https://opendata-ajuntament.barcelona.cat/data/es/dataset/transit-relacio-trams)
 
-For visualize, query, retrieve, analyze geospatial data: [QGIS](https://www.qgis.org/en/site/)
+To visualize, query, retrieve, analyze geospatial data: [QGIS](https://www.qgis.org/en/site/)
