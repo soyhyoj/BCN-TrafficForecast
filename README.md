@@ -22,6 +22,6 @@ docker run -it --rm \
     -p 8888:8888 \
     -v $(pwd)/notebooks:/home/jovyan/notebooks \
     -v $(pwd)/data:/data/ \
-    da-nlp-1 \
+    da-traffic \
     jupyter notebook --notebook-dir /home/jovyan/notebooks
 ```
