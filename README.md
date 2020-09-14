@@ -24,7 +24,7 @@ docker build -t da-traffic .
 ```bash
 docker run -it --rm \
     -p 8888:8888 \
-    -v $(pwd)/notebooks:/home/jovyan/notebooks \
+    -v $(pwd):/home/jovyan/notebooks \
     -v $(pwd)/data:/data/ \
     da-traffic \
     jupyter notebook --notebook-dir /home/jovyan/notebooks
