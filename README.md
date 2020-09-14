@@ -8,6 +8,10 @@ Data 2: Coordinates of traffic sections of Barcelona. Available at [Open Data BC
 
 To visualize, query, retrieve, analyze geospatial data: [QGIS](https://www.qgis.org/en/site/)
 
+All csv files were saved in a folder called 'data' under this directory
+```
+./data
+```
 
 ## Build the docker image
 
