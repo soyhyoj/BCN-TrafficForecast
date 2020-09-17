@@ -8,6 +8,10 @@ Data 2: Coordinates of traffic sections of Barcelona. Available at [Open Data BC
 
 To visualize, query, retrieve, analyze geospatial data: [QGIS](https://www.qgis.org/en/site/)
 
+All csv files were saved in a folder called 'data' under this directory
+```
+./data
+```
 
 ## Build the docker image
 
@@ -20,8 +24,8 @@ docker build -t da-traffic .
 ```bash
 docker run -it --rm \
     -p 8888:8888 \
-    -v $(pwd)/notebooks:/home/jovyan/notebooks \
+    -v $(pwd):/home/jovyan/notebooks \
     -v $(pwd)/data:/data/ \
-    da-nlp-1 \
+    da-traffic \
     jupyter notebook --notebook-dir /home/jovyan/notebooks
 ```
