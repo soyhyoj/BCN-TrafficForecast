@@ -31,6 +31,8 @@ docker run -it --rm \
 ```
 
 ## TO DO
-[ ] Integrate a database and SQL to the project
-[ ] Improve the intepretation of the coordinates
-[ ] Broaden the focus of analysis (not only Av.Diagonal)
+[] Integrate a database and SQL to the project
+
+[] Improve the intepretation of the coordinates
+
+[] Broaden the focus of analysis (not only Av.Diagonal)
