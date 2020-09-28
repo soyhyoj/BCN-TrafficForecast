@@ -29,3 +29,8 @@ docker run -it --rm \
     da-traffic \
     jupyter notebook --notebook-dir /home/jovyan/notebooks
 ```
+
+## TO DO
+[ ] Integrate a database and SQL to the project
+[ ] Improve the intepretation of the coordinates
+[ ] Broaden the focus of analysis (not only Av.Diagonal)
