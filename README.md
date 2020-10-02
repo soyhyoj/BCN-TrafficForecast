@@ -31,7 +31,7 @@ docker run -it --rm \
 ```
 
 ## TO DO
-[] Integrate a database and SQL to the project
+[] Integrate a database and SQL to the project -> MySQL
 
 [] Improve the intepretation of the coordinates
 
