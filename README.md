@@ -35,8 +35,10 @@ docker run -it --rm \
 ```
 
 ## TO DO
+[] Add introductory text to each notebook & improve markdowns
+
 [] Integrate a database and SQL to the project
 
-[] Improve the intepretation of the coordinates
+[] Improve the intepretation of the coordinates (dots -> lines)
 
-[] Broaden the focus of analysis (not only Av.Diagonal)
+[] Broaden the focus of spatial analysis (not only Av.Diagonal)
