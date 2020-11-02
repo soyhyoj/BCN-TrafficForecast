@@ -1,0 +1,493 @@
+SectionID,Description,Longitude,Latitude
+1,Diagonal (Ronda de Dalt a Doctor Marañón),2.11203535639414,41.3841912394771
+2,Diagonal (Doctor Marañón a Ronda de Dalt),2.111944376806616,41.38446666680338
+3,Diagonal (Doctor Marañón a Pl. Pius XII),2.112093343037027,41.38422850920645
+4,Diagonal (Pl. Pius XII a Doctor Marañón),2.122592049318304,41.38719094189204
+5,Diagonal (Pl. Pius XII a Pl. Maria Cristina),2.122657659295115,41.38694195794678
+6,Diagonal (Pl. Maria Cristina a Pl. Pius XII),2.127445471496177,41.38841486943499
+7,Diagonal (Pl. Maria Cristina a Numància),2.132701524574889,41.38946673844387
+8,Diagonal (Numància a Pl. Maria Cristina),2.132462297581474,41.38967891982529
+9,Diagonal (Entença a Francesc Macià),2.137322638833081,41.39061820620348
+10,Diagonal (Francesc Macià a Entença),2.144060999786239,41.39265861540969
+11,González Tablas (Av. Esplugues a Av. Diagonal),2.106107491366136,41.38722368650431
+12,Av. Esplugues (Ronda de Dalt a Av. Pedralbes),2.106273928148852,41.38713992518994
+13,Av. Esplugues (Av. Pedralbes a Ronda de Dalt),2.112026200374138,41.39377325017414
+14,Pg. Reina Elisenda (Av. Pedralbes a Via Augusta),2.112072695077745,41.39380124596624
+15,Pg. Reina Elisenda (Via Augusta a Av. Pedralbes),2.122770732529791,41.40076472824114
+16,Av. Pedralbes (Carretera Esplugues a Pg. Manuel Girona),2.112099838906549,41.39381904874148
+17,Av. Pedralbes (Pg. Manuel Girona a Av. Esplugues),2.119684589735633,41.38961452290313
+18,Av. Pedralbes (Pg. Manuel Girona a Pl. Pius XII),2.119628436558005,41.38956975535296
+19,Av. Pedralbes (Pl. Pius XII a Pg. Manuel Girona),2.122263943715297,41.38768561486016
+20,Av. Foix (Ronda de Dalt a Pg. Reina Elisenda),2.114204931908423,41.40100898870922
+21,Av. Foix (Pg. Reina Elisenda a Ronda de Dalt),2.118655577521356,41.39863980695814
+22,Av. Foix (Pg. Reina Elisenda a Pg. Manuel Girona),2.118566628240455,41.39858718477339
+23,Av. Foix (Pg. Manuel Girona a Pg. Reina Elisenda),2.123318678466315,41.39091497708756
+24,Pg. Manuel Girona (Pl. Prat de la Riba a Av. Pedralbes),2.119731027688196,41.38958532109157
+25,Capità Arenas (Pg. Manuel Girona a Pl. Maria Cristina),2.125578272575177,41.39146452517845
+26,Av. Doctor Marañón (Av. Diagonal a Aristides Maillol),2.112074632717473,41.3842042848003
+27,Av. Doctor Marañón (Aristides Maillol a Av. Diagonal),2.112255275467152,41.38423410460903
+28,Av. Joan XXIII (Pl. Pius XII a Av. Doctor Marañón),2.118968108443318,41.38105849079827
+29,Av. Joan XXIII (Av. Doctor Marañón a Pl. Pius XII),2.119084951268893,41.3808892060575
+30,Aristides Maillol (Av. Doctor Marañón a Travessera de les Corts),2.118749694984459,41.38059296199305
+31,Aristides Maillol (Travessera de les Corts a Av. Doctor Marañón),2.121450387416868,41.37800864473576
+32,Riera Blanca (Travessera de les Corts a Sants),2.121329827650538,41.37789035569048
+33,Riera Blanca (Sants a Travessera de les Corts),2.121464457022848,41.37797658185313
+34,Travessera de les Corts (Gran Via Carles III a Aristides Maillol),2.127963581086467,41.38223772492858
+35,Av. Madrid (Riera Blanca a Gran Via Carles III),2.12888502003473,41.37926108169773
+36,Sants - Creu Coberta (Riera Blanca a Gran Via Carles III),2.121803235997981,41.37567214212357
+37,Creu Coberta - Sants (Gran Via Carles III a Riera Blanca),2.121871003054767,41.37570779009034
+38,Via Augusta (Ronda de Dalt a Passeig Bonanova),2.117935809023692,41.40445796190199
+39,Via Augusta (Passeig Bonanova a Ronda de Dalt),2.118172359380595,41.40456466890452
+40,Via Augusta (Passeig Bonanova a Vergós),2.122859273193511,41.40069664380736
+41,Via Augusta (Vergós a Passeig Bonanova),2.122979007636592,41.40076683592743
+42,Via Augusta (Vergós a Mitre),2.128131475067505,41.39777526297707
+43,Via Augusta (Mitre a Vergós),2.128184843240206,41.39783087799393
+44,Mitre (Via Augusta a Pl. Prat de la Riba),2.132762309466589,41.39776734548782
+45,Mitre (Pl. Prat de la Riba a Via Augusta),2.132915691810435,41.39775788466462
+46,Carles III (Pl. Prat de la Riba a Pl. Maria Cristina),2.129372921079735,41.39233095820669
+47,Carles III (Pl. Maria Cristina a Pl. Prat de la Riba),2.12773851463627,41.38893805125619
+48,Carles III (Pl. Maria Cristina a Travessera de les Corts),2.127240997058315,41.38795627013723
+49,Carles III (Travessera de les Corts a Pl. Maria Cristina),2.127478947954922,41.38792808385156
+50,Carles III (Travessera de les Corts a Carrer de Sans),2.128083705736434,41.38232376251056
+51,Carles III (Carrer de Sants a Travessera de les Corts),2.1282943789112,41.3824276463974
+52,Carles III (Carrer de Sants a Pl. Cerdà),2.130344012967258,41.37547681017795
+53,Carles III (Pl. Cerdà a Carrer de Sants),2.13057066223685,41.37549364643724
+54,Av. Sarrià (Diagonal a Pl. Prat de la Riba),2.130345764441424,41.39254665936577
+55,Can Ràbia (Av. Sarrià a Mitre),2.133315193698366,41.39447564639822
+56,Doctor Roux (Mitre a Via Augusta),2.133216805596561,41.39458412350649
+57,Ganduxer (Diagonal a Pl. Gregori Tramaturg),2.139348563132102,41.39145861710896
+58,Ganduxer (Pl. Gregori Tramaturg a Via Augusta),2.137782888891087,41.39474897317022
+59,Ganduxer (Via Augusta a Passeig Bonanova),2.135319569742507,41.39780944481888
+60,Muntaner (Pl. Bonanova a Mitre),2.133231230181827,41.40646340308802
+61,Muntaner (Rda. General Mitre a Via Augusta),2.137940222404124,41.40282906557358
+62,Muntaner (Via Augusta a Diagonal),2.143212420492087,41.39885936468345
+63,Aribau (Diagonal - Via Augusta),2.151134995432096,41.3946113271771
+64,Av. Tibidabo (Ronda de Dalt a Balmes),2.13389601606337,41.41444927714376
+65,Av. Tibidabo (Balmes a Ronda de Dalt),2.133985692018012,41.4144648010035
+66,Balmes (Av. Tibidabo a Mitre),2.136629786571078,41.41014977123361
+67,Balmes (Mitre a Av. Tibidabo),2.137114077230693,41.41025868922216
+68,Balmes (Mitre a Pl. Molina),2.14064814115134,41.40440615173684
+69,Balmes (Pl. Molina a Mitre),2.147691576571567,41.40116890779236
+70,Balmes (Pl. Molina a Travessera de Gràcia),2.147671264667868,41.40114134820747
+71,Balmes (Travessera de Gràcia a Diagonal),2.151894819385032,41.39760240138553
+72,Via Augusta (Mitre a Muntaner),2.132854499392742,41.39775778438297
+73,Via Augusta (Muntaner a Mitre),2.132855081210556,41.39783179317504
+74,Via Augusta (Muntaner a Pl. Molina),2.14324745961459,41.39883723967652
+75,Via Augusta (Pl. Molina a Muntaner),2.14316452761838,41.39890804499544
+76,Via Augusta (Príncep d'Astúries a Pl. Molina),2.147653471793694,41.40121928040267
+77,Via Augusta (Príncep d'Astúries a Travessera de Gràcia),2.150924953604845,41.40055597013868
+78,Via Augusta (Travessera de Gràcia a Príncep d'Astúries),2.151275193676769,41.40049161123837
+79,Via Augusta (Travessera de Gràcia a Diagonal),2.153186987611491,41.39842388540784
+80,Via Augusta (Diagonal a Travessera de Gràcia),2.153320475072256,41.39849030383854
+81,Príncep d'Astúries (Pl. Lesseps a Via Augusta),2.149560446321661,41.40644790244836
+82,Príncep d'Astúries (Via Augusta a Pl. Lesseps),2.151281990765521,41.4005094933265
+83,República Argentina (Craywinckel a Bolívar),2.139938976107152,41.41246000590063
+84,República Argentina (Bolívar a Pl. Lesseps),2.145624246063225,41.41081048840697
+85,Hospital Militar (Ronda de Dalt a Esteve Terradas),2.140275791324389,41.42040072383414
+86,Hospital Militar (Esteve Terradas a Ronda de Dalt),2.143057128865229,41.4127024277656
+87,Hospital Militar (Esteve Terradas a Ballester),2.142977370443342,41.4127024535737
+88,Hospital Militar (Pl. Lesseps a Esteve Terradas),2.143060470266764,41.41271477906312
+89,Gran de Gràcia (Pl. Joan Carles I a Travessera de Gràcia),2.159532094534289,41.39673891803066
+90,Gran de Gràcia (Travessera de Gràcia a Pl. Lesseps),2.155479514648078,41.39985197423292
+91,Passeig de la Bonanova (Via Augusta a Pl. Bonanova),2.123071539286234,41.40081897624339
+92,Passeig de la Bonanova (Pl. Bonanova a Via Augusta),2.133034962072422,41.40642228430876
+93,Passeig de Sant Gervasi (Pl. Bonanova a Balmes),2.133803146104767,41.4068334002393
+94,Passeig de Sant Gervasi (Balmes a Pl. Bonanova),2.133733839866239,41.40685774956858
+95,Craywinckel - República Argentina (Balmes a Pl. Alfonso Comín),2.13714034525369,41.41023559526721
+96,Passeig de Sant Gervasi (Pl. Alfonso Comín a Balmes),2.137305128965685,41.4143391092673
+97,Mitre (Via Augusta a Balmes),2.132973968357783,41.39785283225579
+98,Mitre (Balmes a Via Augusta),2.132800858458508,41.39785415475829
+99,Mitre (Balmes a Pl. Lesseps),2.140870634314853,41.40440868630283
+100,Mitre (Pl. Lesseps a Balmes),2.140648116990227,41.40448234147681
+101,Travessera de Gràcia (Pl. Francesc Macià a Aribau),2.145328725665552,41.39328713932515
+102,Travessera de Gràcia (Aribau a Via Augusta),2.149330405746273,41.39593880954032
+103,Diagonal (Pl. Francesc Macià a Balmes),2.145089368188193,41.39275830729402
+104,Diagonal (Balmes a Pl. Francesc Macià),2.145092239861253,41.39293570944426
+105,Diagonal (Balmes a Pl Joan Carles I),2.154850186332837,41.39522659412929
+106,Diagonal (Pl. Joan Carles I a Balmes),2.15466087572173,41.39535060583839
+107,Numància (Diagonal a Travessera de les Corts),2.132706747742488,41.38946387844153
+108,Numància (Travessera de les Corts a Berlin),2.135210188921466,41.38692300541036
+109,Numància (Berlin a Pl. Països Catalans),2.139070555369411,41.38322344911437
+110,Tarragona (Pl. Països Catalans a Aragó),2.142400475118791,41.38059273660183
+111,Tarragona (Aragó a Pl.Espanya),2.145941957959057,41.37805632119623
+112,Entença (Gran Via a Aragó),2.152910484157977,41.37790468084696
+113,Entença (Aragó a Av. Roma),2.14941877630898,41.38053830848952
+114,Entença (Av. Roma a Josep Tarradellas),2.147202814835902,41.38219680794396
+115,Entença (Josep Tarradellas a Travessera de les Corts),2.142591392952453,41.38562983923275
+116,Entença (Travessera de les Corts a Diagonal),2.138884467899618,41.38903921569207
+117,Urgell (Gran Via a Aragó),2.158536123464652,41.38216041159433
+118,Urgell (Aragó a Av. Sarrià),2.155087251262404,41.3847939170512
+119,Av. Sarrià (Urgell a Diagonal),2.148244542341879,41.38985949424406
+120,Aribau (Pl. Universitat a Aragó),2.162980801586023,41.3856737244
+121,Aribau (Aragó a Diagonal),2.15959490754724,41.38822927677844
+122,Balmes (Diagonal a Aragó),2.154873060655214,41.39519714300544
+123,Balmes (Aragó a Gran Via),2.161848158706636,41.38990926699342
+124,Passeig de Gràcia (Gran Via a Aragó),2.168275100659407,41.38966295623634
+125,Passeig de Gràcia (Aragó a Pl. Joan Carles I),2.164962057064721,41.39228833123664
+126,Travessera de les Corts (Av. Sarrià a Entença),2.14132359641694,41.39086966809639
+127,Travessera de les Corts (Entença a Numància),2.138881254695975,41.38904282830882
+128,Travessera de les Corts (Numància a Carles III),2.135218562339925,41.38693508241438
+129,Av. Madrid (Carles III a Numància),2.139074460880526,41.3831986539319
+130,Berlín (Numància a Josep Tarradellas),2.139068910621274,41.38322649553167
+131,París (Josep Tarradelles a Urgell),2.142615523258546,41.38563110098092
+132,París (Urgell a Balmes),2.148255072371528,41.38987670402769
+133,Carrer de Sants (Carles III a Premià),2.130595103233517,41.37547832787384
+134,Carrer de Sants (Premià a Carles III),2.13056495482207,41.37551932892383
+135,Carrer de Sants (Premià a Pl. Espanya),2.139034068603962,41.37525965171701
+136,Carrer de Sants (Pl. Espanya a Premià),2.148606139352793,41.37521288250654
+137,Av. Roma (Aragó a Urgell),2.157152358232892,41.38646735139697
+138,Av. Roma (Urgell a Entença),2.15440131474212,41.38527936347686
+139,Av. Roma (Entença a Pl. Països Catalans),2.147195775005304,41.38218890276119
+140,Mallorca (Passeig de Gràcia a Aribau),2.162703538301531,41.39395630202577
+141,Mallorca (Aribau a Urgell),2.157346977496297,41.38989452744422
+142,València (Urgell a Balmes),2.153945136121882,41.38564435289319
+143,València ( Balmes a Pau Claris),2.160747098064935,41.3907497713866
+144,Aragó (Pau Claris a Balmes),2.166388937011798,41.3933120755603
+145,Aragó (Balmes a Urgell),2.161836697830828,41.38990101920162
+146,Aragó (Urgell a Tarragona),2.155077431457955,41.38480688903729
+147,Passeig de la Zona Franca (Pl. Cerdà a Foc),2.135522320640717,41.36437403474587
+148,Passeig de la Zona Franca (Foc a Pl. Cerdà),2.135855093788495,41.364740410228
+149,Passeig de la Zona Franca (Foc a Ronda del Litoral),2.141702805665782,41.35634614904937
+150,Passeig de la Zona Franca (Ronda del Litoral a Foc),2.141850675253816,41.35640980120439
+151,Gran Via (Pl. Cerdà a Moianés),2.135855975108492,41.36488525819141
+152,Gran Via (Moianés a Pl. Cerdà),2.142351093388246,41.37010336452618
+153,Gran Via (Moianés a Pl. Espanya),2.142448493994527,41.3698338736194
+154,Gran Via (Pl. Espanya a Moianés),2.148617212357407,41.37483709001101
+155,Gran Via (Pl. Espanya a Entença),2.149625512446209,41.37520838696996
+156,Gran Via (Entença a Urgell),2.152916297684777,41.37790665126669
+157,Gran Via (Urgell a Pl. Universitat),2.158554731372266,41.38215177817826
+158,Gran Via (Pl. Universitat a Passeig de Gràcia),2.163687051345038,41.38599404770713
+159,Sepúlveda (Ronda de Sant Antoni a Urgell),2.163768754090227,41.38415045625439
+160,Sepúlveda (Urgell a Entença),2.159818387005039,41.38118459550979
+161,Sepúlveda (Entença a Paral.lel),2.154180300570716,41.37692137910927
+162,Paral.lel (Pl. Espanya a Entença),2.149731278540372,41.37515897393959
+163,Paral.lel (Entença a Pl. Espanya),2.149722801000342,41.37508076792499
+164,Paral.lel (Entença a Calàbria),2.154014988950743,41.37504830019314
+165,Paral.lel (Calàbria a Entença),2.153988530206568,41.37497650758521
+166,Paral.lel (Calàbria a Ronda de Sant Pau),2.160806010472567,41.37505072414313
+167,Paral.lel (Ronda de Sant Pau a Calàbria),2.160792086641019,41.37497290149459
+168,Paral.lel (Ronda de Sant Pau a Josep Carner),2.167816301234855,41.37498443097444
+169,Paral.lel (Josep Carner a Ronda de Sant Pau),2.167846673623,41.37490162306974
+170,Entença (Paral.lel a Gran Via),2.156285641901548,41.3750476989261
+171,Ronda de Sant Pau (Paral.lel a Ronda de Sant Antoni),2.167867853798173,41.37498440501707
+172,Urgell (Ronda de Sant Pau a Gran Via),2.163196139559716,41.37863505694546
+173,Ronda de Sant Antoni (Ronda de Sant Pau a Pl Universitat),2.163154056295562,41.37869950417274
+174,Ronda de Sant Antoni (Pl. Universitat a Ronda de Sant Pau),2.163955403217521,41.38531924176605
+175,Pelai (Pl. Universitat a Balmes),2.164651529417385,41.38596143246053
+176,Balmes (Gran Via a Pl. Catalunya),2.165234480939979,41.38735891625806
+177,Ronda Universitat (Pl. Urquinaona a Pl. Universitat),2.172289774171898,41.38881064707914
+178,Fontanella (Pl. Catalunya a Pl. Urquinaona),2.172796098185654,41.38847781237315
+179,Passeig de Gràcia (Pl. Catalunya a Gran Via),2.170169952006475,41.38802204679796
+180,Pau Claris (Còrsega a Mallorca),2.161613161896925,41.39688382174584
+181,Pau Claris (Mallorca a Aragó),2.164122337650778,41.39502208872002
+182,Pau Claris (Aragó a Gran Via),2.166382943867897,41.39330673590619
+183,Pau Claris (Gran Via a Pl. Urquinaona),2.169885781095593,41.39066201706508
+184,Via Laietana (Pl. Uruiqnaona a Jaume I),2.172764148073199,41.38847907390234
+185,Via Laietana (Jaume I a Pl. Urquinaona),2.17281921135891,41.3884956523831
+186,Via Laietana (Jaume I a Pl. Antonio López),2.17871727715645,41.38395548246053
+187,Via Laietana (Pl. Antonio López a Jaume I),2.178742674933132,41.38398526468507
+188,Roger de Llúria (Pl. Urquinaona a Aragó),2.173418906968181,41.38970316422083
+189,Roger de Llúria (Aragó a Diagonal),2.167479116678159,41.39415995798503
+190,Pi i Margall (Pl. Alfons el Savi a Pl. Joanic),2.164633704063712,41.41171635931418
+191,Pi i Margall (Pl. Joanic a Pl. Alfons el Savi),2.164726038512299,41.41170888139349
+192,Passeig de Sant Joan (Pl. Joanic a Còrsega),2.162654089870462,41.40440228199065
+193,Passeig de Sant Joan (Còrsega a Pl. Joanic),2.163018375972605,41.4046274564178
+194,Passeig de Sant Joan (Còrsega a Pl. Verdaguer),2.166279438830037,41.40172836308417
+195,Passeig de Sant Joan (Pl. Verdaguer a Còrsega),2.166543778420813,41.40193772404578
+196,Passeig de Sant Joan (Pl. Verdaguer a Pl. Tetuan),2.169614972671807,41.39913932765836
+197,Passeig de Sant Joan (Pl. Tetuan a Pl. Verdaguer),2.169970062191635,41.3993080837622
+198,Passeig de Sant Joan (Pl. Tetuan a Passeig Lluís Companys),2.175110896977761,41.39455854972081
+199,Passeig de Sant Joan (Passeig Lluís Companys a Pl. Tetuan),2.176043094484588,41.39522597737633
+200,Passeig Lluís Companys (Passeig de Sant Joan a Passeig de Pujades),2.179892981371934,41.39111334051945
+201,Passeig Lluís Companys (Passeig de Pujades a Passeig de Sant Joan),2.180594664262385,41.39162753047184
+202,Comerç (Passeig Lluís Companys a Marquès de l'Argentera),2.181385992954379,41.38991178971306
+203,Sardenya (Pl. Sanllehy a Pi i Margall),2.16124585355832,41.41360710393831
+204,Sardenya (Pi i Margall a Maria Claret),2.164306719003024,41.41023800560878
+205,Sardenya (Maria Claret a Aragó),2.168691070447761,41.40691965049455
+206,Sardenya (Aragó a Gran Via),2.176622388449445,41.4009069256532
+207,Marina (Pl. Voluntaris a Av. Icària),2.195955102869145,41.38803536479829
+208,Marina (Av. Icària a Av. Meridiana),2.194557892106277,41.38910180139862
+209,Marina (Av. Meridiana a Gran Via),2.187127522362828,41.39496482447919
+210,Marina (Gran Via a Diagonal),2.181214901420718,41.39913936846909
+211,Lepant (Ronda Guinardó a Maria Claret),2.166649024379721,41.41206634181039
+212,Lepant (Maria Claret a Aragó),2.171036957417361,41.40868495488762
+213,Lepant (Aragó a Gran Via),2.178953865212576,41.4027388158197
+214,Padilla (Gran Via a Aragó),2.183540639828718,41.40088172313863
+215,Padilla (Aragó a Maria Claret),2.18000341349484,41.40353946642075
+216,Padilla (Maria Claret a Ronda Guinardó),2.172150039884977,41.40951371846342
+217,Av. Estatut de Catalunya (Ronda de Dalt a Av. Can Marcet),2.152114462349888,41.43770320576127
+218,Av. Estatut de Catalunya (Av. Can Marcet a Ronda de Dalt),2.152248795100631,41.43773443709386
+219,Av. Estatut de Catalunya (Av. Can Marcet a Lisboa),2.152246498148243,41.43373492409155
+220,Av. Estatut de Catalunya (Lisboa a Av. Can Marcet),2.157057153874855,41.42905135803574
+221,Rambla del Carmel (Lisboa a Túnel de la Rovira),2.156953105602577,41.42901976323125
+222,Ciències (Túnel de la Rovira a Lisboa),2.157042797892832,41.4290618877242
+223,Túnel de la Rovira (Rambla del Carmel a Ronda Guinardó),2.158211233932794,41.42368801387486
+224,Túnel de la Rovira (Ronda Guinardó a Rambla del Carmel),2.167845191437325,41.41245582245191
+225,Lisboa (Pl. de la Clota a Av. Estatut Catalunya),2.150425595837389,41.42614628512336
+226,Lisboa (Av. Estatut Catalunya a Pl. de la Clota),2.156896818655094,41.42903843907077
+227,Tajo (Lisboa a Passeig Maragall),2.15912708941139,41.42965589789414
+228,Tajo (Passeig Maragall a Lisboa),2.161974238108335,41.42958593949358
+229,Pg. Maragall (Tajo a Av. Borbó),2.162028961877052,41.42954035905324
+230,Pg. Maragall (Av. Borbó a Tajo),2.176420160032533,41.42514778193972
+231,Fabra i Puig (Tajo a Pl. Virrei Amat),2.163907241933041,41.43128672256808
+232,Fabra i Puig (Pl. Virrei Amat a Tajo),2.174462193352225,41.43033356245913
+233,Travessera de Dalt (Pl. Lesseps a Escorial),2.150014270332292,41.40714187430313
+234,Travessera de Dalt (Escorial a Pl. Lesseps),2.149297055032962,41.40663312617431
+235,Ronda Guinardó (Escorial a Túnel de la Rovira),2.157622912155039,41.41117986190942
+236,Ronda Guinardó (Túnel de la Rovira a Escorial),2.168017188339266,41.41262463208307
+237,Ronda Guinardó (Túnel de la Rovira a Oblit),2.168195191539046,41.41251580788141
+238,Can Ràbia (Rda. General Mitre a Av. Sarrià),2.133350286186981,41.39450190225148
+239,Pg. de Gràcia (Av. Diagonal a Aragó),2.159474732738096,41.3963794180611
+240,Pg. de Gràcia (Aragó a Gran Via),2.164903156448137,41.39217340015062
+241,Pg. de Gràcia (Gran Via a Pl. Catalunya),2.168039159102795,41.38943329207393
+242,Villarroel (Gran Via a Rda. Sant Antoni),2.146454467868266 41.393027770024275,2.1516317023376 41.389144874554006
+243,Av. Borbó (Pl. Virrei Amat a Passeig Maragall),2.174525483941814,41.43029939595011
+244,Passeig Maragall (Av. Borbó a Pl. Maragall),2.176369191297101,41.42510325630978
+245,Passeig Maragall (Pl. Maragall a Av. Borbó),2.176428766070635,41.42514752210007
+246,Passeig Maragall (Pl. Maragall a Indústria),2.180704223527825,41.42042918569906
+247,Passeig Maragall (Indústria a Pl. Maragall),2.180757308824244,41.42043766777899
+248,Còrsega (Passeig Maragall a Padilla),2.174366639534286,41.40781904616355
+249,Freser - Passeig Maragall (Rosselló a Indústria),2.179119536184617,41.40962102762124
+250,Rosselló (Padilla a Freser),2.175494203391351,41.40697274563863
+251,Maria Claret (Av. Meridiana a Passeig de Maragall),2.186806206207965,41.42045028982432
+252,Còrsega (Padilla a Passeig de Sant Joan),2.17437454309841,41.40781361504949
+253,Còrsega (Passeig de Sant Joan a Pl. Joan Carles I),2.166221476072123,41.40171158184302
+254,Rosselló (Diagonal a Passeig de Sant Joan),2.162943661168482,41.39757866527506
+255,Rosselló (Passeig de Sant Joan a Padilla),2.16763760204447,41.40107918652652
+256,Diagonal (Pl. Joan Carles I a Passeig de Sant Joan),2.159493237307972,41.39639250594108
+257,Diagonal (Passeig de Sant Joan a Pl. Joan Carles I),2.169939984182332,41.39930554793892
+258,Diagonal (Passeig de Sant Joan a Marina),2.170159337241808,41.39904187684451
+259,Diagonal (Marina a Passeig de Sant Joan),2.178457161180671,41.40139208053393
+260,Diagonal (Marina a Pl. de les Glòries),2.178716034478649,41.40120751120022
+261,Diagonal (Pl. de les Glòries a Marina),2.178469045482754,41.40139526868688
+262,Mallorca (Clot a Meridiana),2.19093788066461,41.41513640549545
+263,Mallorca (Meridiana a Padilla),2.177767070193757,41.40524164523826
+264,Mallorca (Padilla a Passeig de Sant Joan),2.177763706074873,41.4052353026407
+265,Mallorca (Passeig de Sant Joan a Passeig de Gràcia),2.169420415601993,41.39900398942352
+266,València (Pau Claris a Passeig de Sant Joan),2.165259893028393,41.39415132534823
+267,València (Passeig de Sant Joan a Padilla),2.170881220527396,41.39839048392436
+268,València (Padilla a Meridiana),2.178869126501748,41.40438960101215
+269,València (Meridiana a Clot),2.18673030299553,41.41028005442177
+270,Guipúscoa (Bac de Roda a Meridiana),2.194578847589146,41.41464991403956
+271,Aragó (Meridiana a Cartagena),2.186884738367201,41.40877093629595
+272,Aragó (Cartagena a Diagonal),2.176594986151275,41.40090816351372
+273,Aragó (Diagonal a Passeig de Sant Joan),2.175969520947225,41.40049230921142
+274,Aragó (Passeig de Sant Joan a Pau Claris),2.172077345970409,41.3975679065241
+275,Gran Via (Passeig de Gràcia a Roger de Llúria),2.168387595645653,41.38932938891491
+276,Gran Via (Roger de Llúria a Pl. Tetuan),2.171172513124859,41.39138203940757
+277,Gran Via (Pl. Tetuan a Marina),2.176008607900999,41.39456572437018
+278,Gran Via (Marina a Pl de les Glòries),2.181206101072908,41.39912148566004
+279,Gran Via (Pl. de les Glòries a Bac de Roda),2.187653340571323,41.40282576175255
+280,Gran Via (Bac de Roda a Pl. de les Glòries),2.198166146742195,41.41192955924139
+281,Ronda de Sant Pere (Passeig de Sant Joan a Pl. Urquinaona),2.172296563893483,41.38880700614858
+282,Meridiana (Marina a Pl. de les Glòries),2.187213946489344,41.39483060852749
+283,Meridiana (Pl. de les Glòries a Marina),2.186575401342925,41.39488216513048
+284,Almogàvers (Badajoz a Marina),2.193790354926084,41.39991349454472
+285,Almogàvers (Marina a Passeig Lluís Companys),2.187078964477096,41.39467481495542
+286,Pere IV (Pallars a Bac de Roda),2.202285333503462,41.40881896853415
+287,Pere IV - Almogàvers (Bac de Roda a Badajoz),2.193804559616888,41.39991790438899
+288,Pallars (Meridiana a Pere IV),2.188037538852312,41.39404445445009
+289,Passeig de Pujades - Meridiana (Passeig Picasso a Marina),2.187212256157869,41.39482047854783
+290,Meridiana - Passeig de Pujades (Marina a Passeig Picasso),2.182466296478876,41.38821554308381
+291,Passeig de Colom (Pl. Portal de la Pau a Pl. Antonio López),2.178149545058776,41.37603687457116
+292,Passeig de Colom (Pl. Antonio López a Pl. Portal de la Pau),2.182102513985287,41.38137656982789
+293,Av. Marqués de l'Argentera (Pl. Antonio López a Passeig de Picasso),2.182329274444677,41.38125183732253
+294,Av. Marqués de l'Argentera (Passeig de Picasso a Pl. Antonio López),2.185806765732625,41.38558559351512
+299,Passeig de Calvell (Llacuna a Bac de Roda),2.211551984133338,41.40180686280998
+300,Passeig de Calvell (Bac de Roda a Llacuna),2.205228190625193,41.39652580463805
+301,Passeig de Valldaura (Pl. Karl Marx a Pl. Llucmajor),2.162808801568454,41.43957336175498
+302,Passeig de Valldaura (Pl. Llucmajor a Pl. Karl Marx),2.163268700404268,41.43997495108867
+305,Via Júlia (Pl. Llucmajor a Ronda de Dalt),2.17479118573644,41.4385606978524
+306,Via Júlia (Ronda de Dalt a Pl. Llucmajor),2.179345056763169,41.4458448325129
+307,Doctor Pi i Molist (Pl. Madres Mayo a Pl. Virrei Amat),2.172075507624494,41.43536008602456
+308,Ramon Albó (Passeig Maragall a Escòcia),2.177275604026574,41.42868782826998
+309,Arnau d'Oms (Escòcia a Fabra i Puig),2.177337402724373,41.43014325138577
+310,Deià (Piferrer a Passeig Verdum),2.172232087822361,41.4355891722309
+311,Passeig Valldaura (Pl. Lucmajor a Meridiana),2.174682918497206,41.43811200872288
+312,Passeig Valldaura (Meridiana a Pl.Llucmajor),2.174770248012226,41.43854631009036
+313,Fabra i Puig (Meridiana a Pl. Virrei Amat),2.182922409458461,41.43024286453253
+314,Escòcia (Felip II a Meridiana),2.184078441575095,41.42865184785591
+315,Bac de Roda (Ronda Litoral a Pere IV),2.202252525483122,41.4088423959597
+316,Bac de Roda (Pere IV a Gran Via),2.202253036751489,41.40884356923853
+317,Bac de Roda (Gran Via a Clot),2.191406806696115,41.41695138270531
+318,Felip II (Clot a Meridiana),2.186911627549961,41.42039667523422
+319,Felip II (Meridiana a Ramon Albó),2.177254011110719,41.42778894970532
+320,Meridiana (Pl. de les Glòries a Aragó),2.188245387285897,41.40375649409717
+321,Meridiana (Aragó a Pl. de les Glòries),2.186008986232371,41.40404960725547
+322,Meridiana (Aragó a Felip II),2.187031337820338,41.40888466816597
+323,Meridiana (Felip II a Aragó),2.186706066847921,41.40863296861817
+324,Meridiana (Felip II a Fabra i Puig),2.187020600849345,41.4203163565214
+325,Meridiana (Fabra i Puig a Felip II),2.186837039112155,41.42045057237959
+326,Meridiana (Fabra i Puig a Passeig Valldaura),2.183119724919511,41.43024171510604
+327,Meridiana (Passeig Valldaura a Fabra i Puig),2.182901589134316,41.43024282550286
+328,Meridiana (Passeig Valldaura a Ronda de Dalt),2.185500198150545,41.43970898171752
+329,Meridiana (Ronda de Dalt a Passeig Valldaura),2.185270503288435,41.43969264084412
+330,Passeig de Santa Coloma (Coronel Monasterio a Av. Meridiana),2.192806299204555,41.44606036985994
+331,Passeig de Torras i Bages (Passeig Santa Coloma a Sant Adrià),2.190552567442461,41.4452804071076
+332,Passeig de Torras i Bages (Sant Adrià a Passeig Santa Coloma),2.192272336255039,41.43400639155811
+333,Sant Adrià (P. Torras i Bages a Enric Sanchís),2.19220918240433,41.43393926728126
+334,Sant Adrià (Enric Sanchís a P. Torras i Bages),2.204473294674922,41.4361535274444
+335,Josep Soldevila (Onze de Setembre a Sant Adrià),2.196015446156272,41.42994698816749
+336,Virgili (Sant Adrià a Pare Manyanet),2.192256373281816,41.43397547530029
+337,Gran Sant Andreu - Sagrera (Onze de Setembre a Clot),2.189763912155924,41.430121589108
+338,Berenguer de Palou (Clot a Pare Manyanet),2.191567355464075,41.42093839319802
+339,Clot (Sagrera a Mallorca),2.19137478991271,41.41694337416473
+340,Clot (València a Sagrera),2.190206121829423,41.41285264048033
+341,Pont del Treball (Berenguer de Palou a Cantàbria),2.191796543324125,41.42243562475894
+342,Pont del Treball (Cantàbria a Berenguer de Palou),2.198685766150317,41.42213842594377
+343,Cantàbria - Santander (Pont del Treball a Ronda Litoral),2.200463011464453,41.42576760319516
+344,Santander - Cantàbria (Ronda Litoral a Pont del Treball),2.209019344323226,41.43588678522927
+345,Cantàbria (Pont del Treball a Gran Via),2.198774155265424,41.42168047812103
+346,Cantàbria (Gran Via a Pont del Treball),2.20515031286791,41.4170241505587
+347,Rambla de Prim (Santander a Gran Via),2.200210833570606,41.42552059561477
+348,Rambla de Prim (Gran Via a Santander),2.208660254301869,41.41994273893735
+349,Guipúscoa (Ronda del Litoral a Cantàbria),2.212648599543077,41.4297687426488
+350,Guipúscoa (Cantàbria a Bac de Roda),2.201278038382828,41.41974261452176
+351,Gran Via (Bac de Roda a Rambla de Prim),2.19828116456658,41.41183810577802
+352,Gran Via (Rambla de Prim a Bac de Roda),2.207994130109443,41.41935812347232
+353,Gran Via (Rambla de Prim a Ronda del Litoral),2.20822644394729,41.41925048080365
+354,Gran Via (Ronda del Litoral a Rambla de Prim),2.215515389430796,41.42595634794758
+355,Josep Pla (Gran Via a Pallars),2.205019265122314,41.41693445165725
+356,Josep Pla (Pallars a Gran Via),2.211917458152006,41.41179030852185
+357,Pere IV (Bac de Roda a Gran Via),2.202295095581528,41.40882609688327
+358,Pere IV (Gran Via a Bac de Roda),2.208605124754242,41.4193155996484
+359,Rambla Prim (Gran Via a Pl. Llevant),2.208671312523127,41.41921804470648
+360,Rambla Prim (Pl. Llevant a Gran Via),2.219348436373843,41.4116217485454
+361,Passeig de Garcia Faria (Bac de Roda a Rambla de Prim),2.221333827398626,41.40965887742325
+362,Passeig de Garcia Faria (Rambla de Prim a Bac de Roda),2.211501194076937,41.401861408389
+371,Rosselló (Casanova a Balmes),2.153055390612992,41.39002904395011
+372,Rosselló (Balmes a Av. Diagonal),2.157405015827378,41.39333540021625
+386,Consell de Cent (Av. Diagonal a Av. Meridiana),2.179938843306084,41.40181117423615
+387,Bailén (Av. Diagonal a Aragó),2.168344666012885,41.39864181773603
+388,Bailén (Aragó a Gran Via),2.170928777574916,41.39669541751335
+397,Pg. Fabra i Puig (Pg. Urrutia a Pg. Valldaura),2.164265078920822,41.43627857607767
+398,Pg. Fabra i Puig (Pg. Valldaura a Pg. Urrutia),2.166254048738028,41.43921335139778
+399,Pg. Calvell (Llacuna a Bilbao),2.211466224712992,41.40185223721169
+401,Diagonal (Entença a Numància),2.132752806288525,41.3894508269253
+402,Diagonal (Entença a Numància),2.137071607997503,41.39080740136433
+403,Entença (Diagonal a Av Sarrià),2.137079374968269,41.39079396682621
+404,Marina (Meridiana a Av. Icària),2.18683200374767,41.394668117702
+405,Marina (Av. Icària a Pl. Voluntaris),2.194372818261527,41.3890434904554
+406,Josep Carner (Av. Paral.lel a Pl. Portal de la Pau),2.177436976817444,41.37556607114692
+407,Josep Carner (Pl. Portal de la Pau a Av. Paral.lel),2.176742368067166,41.37365385902712
+408,Josep Carner (Miramar a Av. Paral.lel),2.173959124372191,41.3710569773034
+409,Josep Carner (Av. Paral.lel a Miramar),2.173843461393237,41.37107647910338
+410,Ronda Guinardó (Flors de Maig a Túnel de la Rovira),2.176055658960348,41.41820035117134
+411,Gran Via (Hospitalet de Llobregat a Pl. Cerdà),2.135182634247024,41.3643477594519
+412,Gran Via (Pl. Cerdà a Hospitalet de Llobregat),2.099268340092828,41.33786440615782
+413,Muntaner (Diagonal a Aragó),2.149561097251931,41.39404317515417
+414,Muntaner (Aragó a Ronda de Sant Antoni),2.158425584297912,41.3873258251508
+415,Guipúscoa (Meridiana a Bac de Roda),2.187148997451076,41.40873317935966
+416,Guipúscoa (Bac de Roda a Cantàbria),2.194790475632795,41.41446886941618
+417,Guipúscoa (Cantàbria a Ronda del Litoral),2.213023126576503,41.42927692074913
+418,Maria Claret (Passeig de Maragall a Lepant),2.164312377160027,41.40356583507976
+419,Maria Claret (Passeig de Maragall a Lepant),2.170947366837885,41.40868486871982
+420,Bac de Roda (Gran Via a Pere IV),2.197169317974586,41.41100231483539
+421,Bac de Roda (Pere IV a Ronda del Litoral),2.201501355172209,41.40768480126648
+422,Marina (Gran Via a Meridiana),2.181175682933101,41.39909382737082
+423,Diagonal (Pl. Glòries a Bac de Roda),2.188334081483223,41.40354426414545
+424,Diagonal (Bac de Roda a Pl. Glòries),2.203745902993874,41.40766561390975
+425,Diagonal (Bac de Roda a Rambla de Prim),2.204065880716792,41.40746273547578
+426,Diagonal (Rambla de Prim a Bac de Roda),2.218888351257178,41.4113926210454
+427,Ronda Guinardó (Oblit a Passeig de Maragall),2.176134075697631,41.41823051991081
+428,Av. Rio de Janeiro (Fabra i Puig a Passeig de Valldaura),2.182548481471107,41.4302502850386
+429,Av. Rio de Janeiro (Passeig de Valldaura a Meridiana),2.181632173225967,41.43929980395988
+430,Av. Rio de Janeiro (Meridiana a Passeig de Valldaura),2.186310476049722,41.44298619235413
+431,Gran Via (Pl. Glòries a Marina),2.186311513964077,41.4030144156127
+432,Ferran Junoy (Sant Adrià a Potosí),2.194607486889497,41.43538423526972
+433,Ferran Junoy (Potosí a Passeig de Santa Coloma),2.19683738759938,41.44271816400179
+434,Potosí (Ronda Litoral a Ferran Junoy),2.196971310965017,41.44270288949692
+435,Potosí (Ferran Junoy a Ronda Litoral),2.196880093849676,41.44246038915652
+436,Potosí (Ferran Junoy a Coronel Monasterio),2.196927419939183,41.44272056478831
+437,Potosí (Torras i Bages a Ferran Junoy),2.190891283409975,41.44213676122258
+438,Coll i Alentorn (Ronda de Dalt a Pl. de la Clota),2.149790043766557,41.42580938700818
+439,Granja Vella (Pl. de la Clota a Ronda de Dalt),2.150032499611319,41.42645511407779
+440,P. Fabra i Puig (P. Urrutia a Tajo),2.164175812969811,41.4363308060638
+441,P. Fabra i Puig (Tajo a P. Urrutia),2.163985819420398,41.43132093532667
+442,Vergós (Via Augusta a Pl. Artós),2.128019120525555,41.39776416759163
+443,Vergós (Pl. Artós a Via Augusta),2.125665590127965,41.39579518405888
+444,P. Sant Joan Bosco (Pl. Prat de la Riba a Pl. Artós),2.125546928244286,41.39573974677308
+445,P. Sant Joan Bosco (Pl. Prat de la Riba a Pl. Artós),2.129939242122376,41.39270297602814
+446,Numància (Pl. Prat de la Riba a Diagonal),2.129814058661099,41.39246428726707
+447,Numància (Diagonal a Pl. Prat de la Riba),2.132990517543165,41.38979642112953
+448,P. Sant Antoni (Pl. Països Catalans a Pl. Sants),2.142270175053054,41.38064508712833
+449,P. Sant Antoni (Pl. Sants a Pl. Països Catalans),2.135363527543845,41.37541872200755
+450,Mallorca (Urgell a Entença),2.152845465021243,41.38649315565017
+451,Urgell (Pl. Francesc Macià a París),2.144607694791745,41.39272776503912
+452,Esteve Terradas (Pl. Alfonso Comín a Av. Hospital Militar),2.13804763012734,41.41533094497673
+453,Esteve Terradas (Av. Hospital Militar a Pl. Alfonso Comín),2.143142345068023,41.41248301442985
+454,P. Mare de Déu del Coll (Av. Rep. Argentina a Santuari),2.143292261623193,41.41152088339301
+455,P. Mare de Déu del Coll (Santuari a Av. Rep. Argentina),2.14919423245397,41.42041278655719
+456,Santuari (P. Mare de Déu del Coll a Gran Vista),2.149270709978044,41.42036835341358
+457,Santuari (Gran Vista a P. Mare de Déu del Coll),2.157331189099387,41.41869523388964
+458,Ctra. del Carmel - Ramiro de Maeztu (Gran Vista a Pl. Sanllehy),2.157197543794595,41.41863580648911
+459,Ramiro de Maeztu - Ctra. del Carmel (Pl. Sanllehy a Gran Vista),2.160847102150413,41.41411019788329
+460,Camèlies (Escorial a Pl. de la Font Castellana),2.158209563380197,41.41067593454893
+461,Av. Mare Déu Montserrat (Pl. de la Font Castellana a Pl. Sanllehy),2.166374624706066,41.41500358116451
+462,Av. Mare Déu Montserrat (Pl. de la Font Castellana a Amílcar),2.166577863010064,41.41503030084718
+463,Av. Mare Déu Montserrat (Amílcar a Pl. de la Font Castellana),2.173010637909329,41.42016635875746
+464,Av. Mare Déu Montserrat (Amílcar a Sagnier),2.173015464689196,41.42017168108172
+465,Av. Mare Déu Montserrat (P. Maragall a Amílcar),2.17654208691151,41.42499904812088
+466,Escorial (Pl. Joanic a Camèlies),2.16311468947372,41.40532750037832
+467,Travessera de Gràcia (Via Augusta a Gran de Gràcia),2.153145473217408,41.39843233180449
+468,vessera de Gràcia (Gran de Gràcia a Escorial),2.155401256537626,41.39984039961278
+469,Indústria (P. Sant Joan a Padilla),2.16545376978744,41.40276775743242
+470,Indústria (Padilla a P. Maragall),2.173283224393245,41.40874727113033
+471,Navas de Tolosa (Pg. Maragall a Meridiana),2.180804186592291,41.41966454320876
+472,Navas de Tolosa (Meridiana a Aragó),2.186976917807342,41.41519075081468
+473,Bilbao (Aragó a Gran Via),2.191354557516692,41.41194099650067
+474,Trafalgar (Pl. Urquinaona a P. Lluís Companys),2.17350465910777,41.38894858305788
+475,Sardenya (Gran Via a Meridiana),2.180235739275833,41.39823602797226
+476,Sardenya - Trias Fargas (Meridiana a Dr. Aiguader),2.186865797793292,41.39306552906766
+477,Dr. Aiguader (Pl. Antonio López a Pl. Voluntaris),2.196284820360954,41.38738569725405
+478,Dr. Aiguader (Pl. Voluntaris a Pl. Antonio López),2.195794779631699,41.38786551898253
+479,Av. del Litoral (Pl. Voluntaris a Llacuna),2.196309187682615,41.38738320091294
+480,Salvador Espriu (Llacuna a Pl. dels Voluntaris),2.206110221594775,41.39557698361837
+481,Pallars (Pere IV a Bac de Roda),2.194484346257909,41.39874607254452
+482,Pallars (Bac de Roda a Josep Pla),2.205093169068334,41.40667852400595
+483,Onze de Setembre - Fabra i Puig (Josep Soldevila a Meridiana),2.196033981203009,41.4300124680609
+484,P. Enric Sanchís (Sant Adrià a Santander),2.204514404531622,41.43612717675872
+485,P. Santa Coloma (Meridiana a Coronel Monasterio),2.186848392750576,41.44407177735405
+486,P. Santa Coloma (Coronel Monasterio a Ronda Litoral),2.192790797580827,41.44611111754438
+487,P. Santa Coloma (Ronda Litoral a Coronel Monasterio),2.201080482164656,41.44890508658017
+488,Felip II (Costa i Cuxart a Concepción Arenal),2.176545577020748,41.42827693643794
+489,P. Picasso (P. Pujades a Av. Marquès de l'Argentera),2.182581686521971,41.38819458974687
+490,P. Picasso (Av. Marquès de l'Argentera a P. Pujades),2.185826199802122,41.38556735695139
+491,Av. Rep. Argentina (Simón Bolívar a Craywinckel),2.145646691633488,41.41082538241401
+492,P. Verdum (Pl. Madres Mayo a Pl. Llucmajor),2.172092057409976,41.43534238183812
+493,P. Verdum (Pl. Llucmajor a Pl. Madres Mayo),2.174371062989509,41.4382424050507
+494,Bac de Roda (Guipúscoa a Gran Via),2.19352239504496,41.41370878878841
+501,Ronda de Dalt (Via Júlia a Nus de la Trinitat),2.179328917681198,41.44586936429501
+502,Ronda de Dalt (Nus de la Trinitat a Via Júlia),2.196532557799757,41.45007223054589
+503,Ronda de Dalt (Pl. Karl Marx a Via Júlia),2.162388390622079,41.44001681940336
+504,Ronda de Dalt (Via Júlia a Pl. Karl Marx),2.17915567913475,41.44620207643784
+505,Ronda de Dalt (Av. Estatut de Catalunya a Pl. Karl Marx),2.152205808556786,41.43777292822851
+506,Ronda de Dalt (Pl. Karl Marx a Av. Estatut de Catalunya),2.162059730175401,41.44033478153586
+507,Ronda de Dalt (Av. Jordà a Av. Estatut de Catalunya),2.142456898615446,41.42469480231056
+508,Ronda de Dalt (Av. Estatut de Catalunya a Av. Jordà),2.152040237159594,41.43805694934742
+509,Ronda de Dalt (Pl. d'Alfons Comín a Av. Jordà),2.136310289517265,41.41514385933984
+510,Ronda de Dalt (Pl. d'Alfons Comín a Av. Jordà),2.14208683741844,41.42478486634349
+511,Ronda de Dalt (Bellesguard a Pl. Alfons Comín),2.125746179354418,41.41028810997592
+512,Ronda de Dalt (Av. Jordà a Pl. d'Alfons Comín),2.136125350308178,41.4153234093988
+513,Ronda de Dalt (Foix a Bellesguard),2.114224020087241,41.40123340142917
+514,Ronda de Dalt (Nus de la Trinitat a Via Júlia),2.125671759258412,41.41046734215062
+515,Ronda de Dalt (Carretera d'Esplugues a Foix),2.106919626100938,41.38825433337026
+516,Ronda de Dalt (Foix a Carretera d'Esplugues),2.113978756074981,41.40133002089488
+517,Ronda de Dalt (Diagonal a Carretera d'Esplugues),2.101630204694485,41.38174680807991
+518,Ronda de Dalt (Carretera d'Esplugues a Diagonal),2.106650473787421,41.38811341819345
+519,Ronda del Litoral (Passeig de la Zona Franca a Miramar),2.156677365353923,41.35242049086897
+520,Ronda del Litoral (Miramar a Passeig de la Zona Franca),2.183256229605646,41.38108773603663
+521,Ronda del Litoral (Miramar a Pl. dels Voluntaris),2.196050927353133,41.38780759085961
+522,Ronda del Litoral (Pl. dels Voluntaris a Miramar),2.183377232700869,41.38093644062881
+523,Ronda del Litoral (Pl. dels Voluntaris a Bac de Roda),2.196233908666054,41.38779033212941
+524,Ronda del Litoral (Bac de Roda a Pl. dels Voluntaris),2.212092011995446,41.40166617539131
+525,Ronda del Litoral (Bac de Roda a Rambla de Prim),2.212304380323948,41.40152549611
+526,Ronda del Litoral (Rambla de Prim a Bac de Roda),2.22137891826153,41.41009708737582
+527,Ronda del Litoral (Rambla de Prim a Gran Via),2.221689772896842,41.40995621567469
+528,Ronda del Litoral (Gran Via a Rambla de Prim),2.215491057891872,41.42605848959602
+529,Ronda Litoral (Estació de Can Tunis a Passeig de la Zona Franca),2.156643067097748,41.35238639168005
+530,Ronda Litoral (Passeig de la Zona Franca a Estació de Can Tunis),2.14689, 41.34946
+531,Ronda Litoral (Gran Via a Potosí),2.206259340928256,41.44361502134825
+532,Ronda Litoral (Potosí a Gran Via),2.206062333803802,41.44356616311283
+533,Ronda Litoral (Potosí a Nus de la Trinitat),2.206243003622748,41.44362108033077
+534,Ronda Litoral (Nus de la Trinitat a Potosí),2.206062333803802,41.44356616311283
