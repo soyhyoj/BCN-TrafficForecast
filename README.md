@@ -1,7 +1,7 @@
 # CodeOp-DA1-TechChallenge (5-6, Sep 2020)
 
 This is a 2-day technical challenge I was given during my 6-month Data Analytics Bootcamp (CodeOp).
-Results are summarized as presentation format in the 'BCN_traffic_report.pdf' file of this repo.
+Results are summarized as presentation format in the ['BCN_traffic_report.pdf'](https://github.com/soyhyoj/BCN-TrafficForecast/blob/master/BCN_traffic_report.pdf) file of this repo.
 
 
 ## Collect data
