@@ -18,7 +18,7 @@ services:
     ports:
       - "6543:5432"
     environment:
-      POSTGRES_DB: carto
-      POSTGRES_USER: carto
-      POSTGRES_PASSWORD: carto
+      POSTGRES_DB: bcn_traffic
+      POSTGRES_USER: bcn
+      POSTGRES_PASSWORD: bcn
       
