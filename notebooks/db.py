@@ -95,11 +95,11 @@ def db_to_df(query, column_names):
         print ("Failed to execute the query")
     
     tupples = cur.fetchall() # a list of tupples
-    cur.close()
-    conn.close () # Close connection
     
     # We just need to turn it into a pandas dataframe
     df = pd.DataFrame(tupples, columns=column_names)
+    cur.close()
+    conn.close () # Close connection
     return df
 
 # Function to retrieve data from database using queries
