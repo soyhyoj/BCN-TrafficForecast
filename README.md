@@ -6,7 +6,7 @@ This is an extended project of 2-day technical challenge (5-6 Sep 2020) I was gi
 
 ## Collect data
 
-Data 1: Traffic state information by sections of the city of Barcelona. Available at [Open Data BCN](https://opendata-ajuntament.barcelona.cat/data/en/dataset/trams)
+Data 1: Traffic state information by sections of Barcelona city. Available at [Open Data BCN](https://opendata-ajuntament.barcelona.cat/data/en/dataset/trams)
 
 Data 2: Coordinates of traffic sections of Barcelona. Available at [Open Data BCN](https://opendata-ajuntament.barcelona.cat/data/es/dataset/transit-relacio-trams)
 
