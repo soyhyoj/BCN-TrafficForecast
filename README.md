@@ -1,8 +1,8 @@
-# CodeOp-DA1-TechChallenge (5-6, Sep 2020)
+# Traffic of Barcelona city
 
-This is a 2-day technical challenge I was given during my 6-month Data Analytics Bootcamp (CodeOp).
-Results are summarized as presentation format in the ['BCN_traffic_report.pdf'](https://github.com/soyhyoj/BCN-TrafficForecast/blob/master/BCN_traffic_report.pdf) file of this repo.
+This is an extended project of 2-day technical challenge (5-6 Sep 2020) I was given during my 6-month Data Analytics Bootcamp (CodeOp, Barcelona).
 
+-----------------------------
 
 ## Collect data
 
@@ -17,27 +17,16 @@ All csv files were saved in a folder called 'data' under this directory
 ./data
 ```
 
+--------------------------
+
 ## Build the docker image
 
 ```
-docker build -t da-traffic .
-```
-
-## Run notebook server in docker
-
-```bash
-docker run -it --rm \
-    -p 8888:8888 \
-    -v $(pwd):/home/jovyan/notebooks \
-    -v $(pwd)/data:/data/ \
-    da-traffic \
-    jupyter notebook --notebook-dir /home/jovyan/notebooks
+docker-compse up
 ```
 
 ## TO DO
-[] Add introductory text to each notebook & improve markdowns
-
-[] Integrate a database and SQL to the project
+[X] Integrate a database and SQL to the previous project -> perform ETL
 
 [] Improve the intepretation of the coordinates (dots -> lines)
 
