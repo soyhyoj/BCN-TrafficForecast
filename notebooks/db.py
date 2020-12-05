@@ -82,6 +82,30 @@ def prepare_engine():
 # Functions for EDA #
 ########################################################################
 
+# A function to get all the names of tables from database
+def get_table_names():
+    conn = connect_to_db()
+
+    query = """
+            SELECT table_name
+            FROM information_schema.tables
+            WHERE table_schema='public'
+            AND table_type='BASE TABLE';;
+            """
+
+    try:
+        cur = conn.cursor()
+        cur.execute(query)
+        result = cur.fetchall()
+
+    except psycopg2.DatabaseError: # print error if fails
+        print ("Failed to execute the query")
+    
+    # Close connection
+    cur.close()
+    conn.close () 
+    return result
+
 # A function to retrieve data from database using queries
 # and save the result as a df 
 def db_to_df(query, column_names):
