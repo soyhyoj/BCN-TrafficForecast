@@ -133,7 +133,7 @@ def db_to_gdf(query, geometry):
     
     try:
         # Save the query result as a geodataframe
-        gdf = gpd.read_postgis(query, conn, geom_col=geometry)
+        gdf = gpd.read_postgis(query, conn, geom_col=geometry, index_col='index')
 
     except psycopg2.DatabaseError: # print error if fails
         print ("Failed to execute the query")
