@@ -23,9 +23,15 @@ docker-compse up
 ```
 
 
-## TO DO
+## TO-DOs
+[X] Environment - Docker containers
+
 [X] Integrate a database and SQL to the previous project -> perform ETL
 
-[] Improve the intepretation of the coordinates (dots -> lines)
+[X] Improve the intepretation of the coordinates (dots -> lines)
 
-[] Broaden the focus of spatial analysis (not only Av.Diagonal)
+[X] Broaden the focus of spatial analysis (not only Av.Diagonal)
+
+[] Expand EDA (using time & geodata attributes)
+
+[] Refine forecast using different ML algorithms
