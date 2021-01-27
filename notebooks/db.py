@@ -13,10 +13,10 @@ def connect_to_db():
     try:
         #conn for connection
         conn =  psycopg2.connect(dbname='bcn_traffic',
-                                 user='bcn',
-                                 password='bcn',
-                                 host='postgis',
-                                 port='5432')
+                                user='bcn',
+                                password='bcn',
+                                host='postgis',
+                                port='5432')
 
     except psycopg2.DatabaseError:
         print ("I am unable to connect the database")
